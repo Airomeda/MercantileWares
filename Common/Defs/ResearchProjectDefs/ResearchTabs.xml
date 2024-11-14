@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+
+  <ResearchTabDef>
+    <defName>Ai_MercantileWares_Tab</defName>
+    <label>Mercantile Wares Research</label>
+  </ResearchTabDef>
+
+</Defs>

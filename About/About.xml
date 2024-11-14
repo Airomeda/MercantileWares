@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ModMetaData>
+  <name>Mercantile Wares</name>
+  <description>A medieval-themed mod that allows player to communicate with other factions.</description>
+  <author>Airotsu</author>
+  <supportedVersions>
+    <li>1.5</li>
+  </supportedVersions>
+  <packageId>Airo.MercantileWares</packageId>
+  <modDependencies />
+  <loadBefore />
+  <loadAfter>
+    <li>VanillaExpanded.VanillaTradingExpanded</li>
+  </loadAfter>
+</ModMetaData>

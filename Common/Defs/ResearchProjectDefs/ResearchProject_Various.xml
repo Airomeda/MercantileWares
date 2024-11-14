@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+
+  <!-- Cartography -->
+  <ResearchProjectDef>
+    <defName>Ai_Cartography</defName>
+    <label>cartography</label>
+    <description>basic cartography to discover unknown land with riches and communicate with other faction, pre-industrial.</description>
+    <baseCost>1500</baseCost>
+    <tab>Ai_MercantileWares_Tab</tab>
+    <techLevel>Medieval</techLevel>
+    <prerequisites>
+      <li>Smithing</li>
+      <li MayRequire="DankPyon.Medieval.Overhaul">DankPyon_CarrierBirds</li>
+    </prerequisites>
+    <researchViewX>0.5</researchViewX>
+    <researchViewY>1.50</researchViewY>
+  </ResearchProjectDef>
+
+</Defs>

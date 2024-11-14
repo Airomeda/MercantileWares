@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<loadFolders>
+  <v1.5>
+    <li>Common</li>
+    <li IfModActive="VanillaExpanded.VanillaTradingExpanded">Mods/VTE</li>
+  </v1.5>
+</loadFolders>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+
+  <WorkGiverDef>
+    <defName>Ai_CartographyScan</defName>
+    <label>operate cartography table</label>
+    <giverClass>WorkGiver_OperateScanner</giverClass>
+    <workType>Research</workType>
+    <priorityInType>50</priorityInType>
+    <verb>scan</verb>
+    <gerund>scanning at</gerund>
+    <scannerDef>Ai_CartographyTable</scannerDef>
+    <requiredCapacities>
+      <li>Manipulation</li>
+    </requiredCapacities>
+    <canBeDoneByMechs>false</canBeDoneByMechs>
+  </WorkGiverDef>
+
+</Defs>
